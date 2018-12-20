@@ -8,6 +8,7 @@ Sorax: https://www.youtube.com/user/ArtSorax/playlists
 
 ## React
 Saga: https://nfpk.gitbooks.io/redux-saga-ru/content/<br>
+[Разбираемся в redux-saga: От генераторов действий к сагам](https://habr.com/post/351168/)
 Dva: http://smyt.ru/blog/tag/dva/
 
 ## ASP.Net Core
