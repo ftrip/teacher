@@ -7,7 +7,7 @@ https://habr.com/company/ruvds/blog/325522/
 Sorax: https://www.youtube.com/user/ArtSorax/playlists
 
 ## React
-Saga: https://nfpk.gitbooks.io/redux-saga-ru/content/
+Saga: https://nfpk.gitbooks.io/redux-saga-ru/content/<br>
 Dva: http://smyt.ru/blog/tag/dva/
 
 ## ASP.Net Core
