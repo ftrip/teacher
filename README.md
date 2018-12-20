@@ -8,6 +8,7 @@ Sorax: https://www.youtube.com/user/ArtSorax/playlists
 
 ## React
 Saga: https://nfpk.gitbooks.io/redux-saga-ru/content/
+Dva: http://smyt.ru/blog/tag/dva/
 
 ## ASP.Net Core
 [Настройка ASP.NET Core для работы с прокси-серверами и подсистемами балансировки нагрузки](https://docs.microsoft.com/ru-ru/aspnet/core/host-and-deploy/proxy-load-balancer?view=aspnetcore-2.1)
