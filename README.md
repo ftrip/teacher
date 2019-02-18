@@ -7,6 +7,7 @@ https://habr.com/company/ruvds/blog/325522/
 Sorax: https://www.youtube.com/user/ArtSorax/playlists
 
 ## React
+Начало: [maxfarseer.gitbooks.io](https://maxfarseer.gitbooks.io/react-course-ru-v2/content/)
 Saga: https://nfpk.gitbooks.io/redux-saga-ru/content/<br>
 [Разбираемся в redux-saga: От генераторов действий к сагам](https://habr.com/post/351168/)<br>
 Dva: http://smyt.ru/blog/tag/dva/<br>
