@@ -33,3 +33,6 @@ npm i -D graphpack@1.0.4
 [mapshaper.org](https://mapshaper.org/) Online преобразователь форматов<br>
 [gadm.org](https://gadm.org/) Скачать геоданные<br>
 [highcharts.com](http://code.highcharts.com/mapdata/) Готовые GeoJSON SVG
+
+## Разное
+[i-harness.com](http://code.i-harness.com/ru/docs/)
