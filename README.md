@@ -26,5 +26,5 @@ npm i -D graphpack@1.0.4
 [Среда размещения ASP.NET Core в операционной системе Linux с Nginx](https://docs.microsoft.com/ru-ru/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-2.1)
 
 ## Geo
-[mapshaper.org](https://mapshaper.org/) Online преобразователь форматов
+[mapshaper.org](https://mapshaper.org/) Online преобразователь форматов<br>
 [gadm.org](https://gadm.org/) Скачать геоданные
