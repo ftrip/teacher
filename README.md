@@ -25,6 +25,9 @@ npm i -D graphpack@1.0.4
 [Настройка ASP.NET Core для работы с прокси-серверами и подсистемами балансировки нагрузки](https://docs.microsoft.com/ru-ru/aspnet/core/host-and-deploy/proxy-load-balancer?view=aspnetcore-2.1)
 [Среда размещения ASP.NET Core в операционной системе Linux с Nginx](https://docs.microsoft.com/ru-ru/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-2.1)
 
+## Docker
+[Изучаем Docker](https://habr.com/ru/company/ruvds/blog/438796/)
+
 ## Geo
 [mapshaper.org](https://mapshaper.org/) Online преобразователь форматов<br>
 [gadm.org](https://gadm.org/) Скачать геоданные<br>
