@@ -26,7 +26,8 @@ npm i -D graphpack@1.0.4
 [Среда размещения ASP.NET Core в операционной системе Linux с Nginx](https://docs.microsoft.com/ru-ru/aspnet/core/host-and-deploy/linux-nginx?view=aspnetcore-2.1)
 
 ## Docker
-[Изучаем Docker](https://habr.com/ru/company/ruvds/blog/438796/)
+[Изучаем Docker](https://habr.com/ru/company/ruvds/blog/438796/)<br>
+[habr.com](https://habr.com/ru/company/ruvds/blog/440656/) Профессиональная контейнеризация Node.js-приложений с помощью Docker
 
 ## Geo
 [mapshaper.org](https://mapshaper.org/) Online преобразователь форматов<br>
