@@ -7,6 +7,9 @@ https://habr.com/company/ruvds/blog/325522/
 Sorax: https://www.youtube.com/user/ArtSorax/playlists<br>
 [Памятка по современному JavaScript](https://github.com/mbeaudru/modern-js-cheatsheet/blob/master/translations/ru-RU.md)
 
+## Node.js
+[Node Hero](https://medium.com/devschacht/node-hero-6a07ef8d822d)
+
 ## React
 Начало: [maxfarseer.gitbooks.io](https://maxfarseer.gitbooks.io/react-course-ru-v2/content/)<br>
 [Документация React](https://learn-reactjs.ru/home)<br>
