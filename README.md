@@ -40,5 +40,8 @@ npm i -D graphpack@1.0.4
 [gadm.org](https://gadm.org/) Скачать геоданные<br>
 [highcharts.com](http://code.highcharts.com/mapdata/) Готовые GeoJSON SVG
 
+## Go
+[Web-приложение на Go 2017](https://habr.com/ru/post/329582/)
+
 ## Разное
 [i-harness.com](http://code.i-harness.com/ru/docs/)
