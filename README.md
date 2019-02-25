@@ -39,7 +39,8 @@ npm i -D graphpack@1.0.4
 [mapshaper.org](https://mapshaper.org/) Online преобразователь форматов<br>
 [gadm.org](https://gadm.org/) Скачать геоданные<br>
 [highcharts.com](http://code.highcharts.com/mapdata/) Готовые GeoJSON SVG<br>
-[Введение в GeoServer и его REST API](https://www.ibm.com/developerworks/ru/library/os-geoserver/)
+[Введение в GeoServer и его REST API](https://www.ibm.com/developerworks/ru/library/os-geoserver/)<br>
+[Создание тайлового сервера](http://gis-lab.info/qa/mod_tile.html)
 
 ## Go
 [Web-приложение на Go 2017](https://habr.com/ru/post/329582/)
