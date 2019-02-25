@@ -37,6 +37,7 @@ npm i -D graphpack@1.0.4
 
 ## Geo
 [mapshaper.org](https://mapshaper.org/) Online преобразователь форматов<br>
+[Вся земля OSM](https://planet.openstreetmap.org/)
 [gadm.org](https://gadm.org/) Скачать геоданные<br>
 [highcharts.com](http://code.highcharts.com/mapdata/) Готовые GeoJSON SVG<br>
 [Введение в GeoServer и его REST API](https://www.ibm.com/developerworks/ru/library/os-geoserver/)<br>
