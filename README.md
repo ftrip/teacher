@@ -8,6 +8,7 @@ Sorax: https://www.youtube.com/user/ArtSorax/playlists<br>
 [Памятка по современному JavaScript](https://github.com/mbeaudru/modern-js-cheatsheet/blob/master/translations/ru-RU.md)
 
 ## Node.js
+[Руководства по Node.js](https://nodeguide.ru/doc/)<br>
 [Node Hero](https://medium.com/devschacht/node-hero-6a07ef8d822d)
 
 ## React
