@@ -49,4 +49,5 @@ npm i -D graphpack@1.0.4
 
 ## Разное
 [WebSocket](https://hharek.ru/%D0%B2%D0%B5%D0%B1-%D1%81%D0%BE%D0%BA%D0%B5%D1%82%D1%8B-%D0%B2-%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9-%D0%B4%D0%BE%D0%BC)<br>
+[WebSocket SSL](https://github.com/websockets/ws/blob/master/examples/ssl.js)<br>
 [i-harness.com](http://code.i-harness.com/ru/docs/)
