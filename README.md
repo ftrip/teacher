@@ -9,7 +9,8 @@ Sorax: https://www.youtube.com/user/ArtSorax/playlists<br>
 
 ## Node.js
 [Руководства по Node.js](https://nodeguide.ru/doc/)<br>
-[Node Hero](https://medium.com/devschacht/node-hero-6a07ef8d822d)
+[Node Hero](https://medium.com/devschacht/node-hero-6a07ef8d822d)<br>
+[Habr](https://habr.com/ru/hub/nodejs/)
 
 ## React
 Начало: [maxfarseer.gitbooks.io](https://maxfarseer.gitbooks.io/react-course-ru-v2/content/)<br>
