@@ -1,5 +1,5 @@
 # Полезные материалы
-[Как стать Frontend-разработчиком]
+[Как стать Frontend-разработчиком](https://vk.com/@simbirsoft-kak-stat-frontend-razrabotchikom)
 
 ## Bash
 https://habr.com/company/ruvds/blog/325522/
