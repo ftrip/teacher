@@ -1,4 +1,6 @@
 # Полезные материалы
+[Как стать Frontend-разработчиком]
+
 ## Bash
 https://habr.com/company/ruvds/blog/325522/
 
