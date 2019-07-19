@@ -62,8 +62,8 @@ npm i -D graphpack@1.0.4
 [Разработка веб-приложения на Rust](https://habr.com/ru/company/ruvds/blog/416933/)<br>
 [Yew — Rust&WebAssembly](https://habr.com/ru/company/jugru/blog/422253/)
 
-##CSS
-[Технологии CSS](https://habr.com/ru/company/oleg-bunin/blog/450824/)
+## CSS
+[Технологии CSS](https://habr.com/ru/company/oleg-bunin/blog/450824/)<br>
 
 ## Разное
 [WebSocket](https://hharek.ru/%D0%B2%D0%B5%D0%B1-%D1%81%D0%BE%D0%BA%D0%B5%D1%82%D1%8B-%D0%B2-%D0%BA%D0%B0%D0%B6%D0%B4%D1%8B%D0%B9-%D0%B4%D0%BE%D0%BC)<br>
