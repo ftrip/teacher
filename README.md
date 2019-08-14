@@ -30,7 +30,8 @@ Dva: http://smyt.ru/blog/tag/dva/<br>
 Фреймворк текстового редактора: [Draft.js](https://medium.com/factorymn/draft-js-%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA-%D0%B4%D0%BB%D1%8F-%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D1%85-%D1%80%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2-%D0%BE%D1%82-facebook-ea8e9102aa1)<br>
 [Relay](http://code.i-harness.com/ru/docs/relay/index)<br>
 Архитектура:<br>
-[Пишем API для React компонента](https://habr.com/ru/post/459272/)
+[Пишем API для React компонента](https://habr.com/ru/post/459272/)<br>
+[react-archer](https://github.com/pierpo/react-archer) - библиотека для создания стрелок между элементами DOM в React
 
 ## TS
 [TypeScript и React с использованием create-react-app](https://dev-gang.ru/article/typescript-i-react-s-ispolzovaniem-create-react-app-poshagovoe-rukovodstvo-po-nastroike-vashego-pervogo-prilozhenija/)
