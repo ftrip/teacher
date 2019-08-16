@@ -31,7 +31,8 @@ Dva: http://smyt.ru/blog/tag/dva/<br>
 [Relay](http://code.i-harness.com/ru/docs/relay/index)<br>
 Архитектура:<br>
 [Пишем API для React компонента](https://habr.com/ru/post/459272/)<br>
-[react-archer](https://github.com/pierpo/react-archer) - библиотека для создания стрелок между элементами DOM в React
+[react-archer](https://github.com/pierpo/react-archer) - библиотека для создания стрелок между элементами DOM в React<br>
+[react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 
 ## TS
 [TypeScript и React с использованием create-react-app](https://dev-gang.ru/article/typescript-i-react-s-ispolzovaniem-create-react-app-poshagovoe-rukovodstvo-po-nastroike-vashego-pervogo-prilozhenija/)
