@@ -73,5 +73,6 @@ npm i -D graphpack@1.0.4
 [WebSocket SSL](https://github.com/websockets/ws/blob/master/examples/ssl.js)<br>
 [i-harness.com](http://code.i-harness.com/ru/docs/)<br>
 [Миграции](https://habr.com/ru/post/121265/) - зачем они нужны?<br>
+[WebAuthn](https://habr.com/ru/company/1cloud/blog/353966/)<br>
 WebRTC<br>
 IndexedDb (WebSQL устарело)
