@@ -36,7 +36,7 @@ Dva: http://smyt.ru/blog/tag/dva/<br>
 [react-beautiful-dnd](https://github.com/atlassian/react-beautiful-dnd) - Beautiful and accessible drag and drop for lists with React
 
 ## TS
-[TypeScript и React с использованием create-react-app](https://dev-gang.ru/article/typescript-i-react-s-ispolzovaniem-create-react-app-poshagovoe-rukovodstvo-po-nastroike-vashego-pervogo-prilozhenija/)
+[TypeScript и React с использованием create-react-app](https://dev-gang.ru/article/typescript-i-react-s-ispolzovaniem-create-react-app-poshagovoe-rukovodstvo-po-nastroike-vashego-pervogo-prilozhenija/)<br>
 iots
 
 ## GraphQL
