@@ -37,6 +37,7 @@ Dva: http://smyt.ru/blog/tag/dva/<br>
 
 ## TS
 [TypeScript и React с использованием create-react-app](https://dev-gang.ru/article/typescript-i-react-s-ispolzovaniem-create-react-app-poshagovoe-rukovodstvo-po-nastroike-vashego-pervogo-prilozhenija/)
+iots
 
 ## GraphQL
 [Руководство по GraphQL для начинающих](https://tproger.ru/translations/graphql-beginners-guide/?utm_source=pulse_mail_ru)
