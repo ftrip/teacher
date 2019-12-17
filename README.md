@@ -76,4 +76,5 @@ npm i -D graphpack@1.0.4
 [Миграции](https://habr.com/ru/post/121265/) - зачем они нужны?<br>
 [WebAuthn](https://habr.com/ru/company/1cloud/blog/353966/)<br>
 WebRTC<br>
-IndexedDb (WebSQL устарело)
+IndexedDb (WebSQL устарело)<br>
+[EventLoop](https://habr.com/ru/post/461401/)
