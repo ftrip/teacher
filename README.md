@@ -12,6 +12,7 @@ https://habr.com/company/ruvds/blog/325522/
 [Timur Shemsedinov](https://www.youtube.com/user/sthxnp/videos)<br>
 Sorax: https://www.youtube.com/user/ArtSorax/playlists<br>
 [Памятка по современному JavaScript](https://github.com/mbeaudru/modern-js-cheatsheet/blob/master/translations/ru-RU.md)
+[Итераторы подробно](https://habr.com/ru/company/mailru/blog/533822/)
 
 ## JS запчасти
 [Таблицы Ag-grid](https://www.ag-grid.com/)
